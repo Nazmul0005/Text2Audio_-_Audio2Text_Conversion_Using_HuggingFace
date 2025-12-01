@@ -4,6 +4,10 @@
 
 # Text2Audio_-_Audio2Text_Conversion_Using_HuggingFace
 
+<p align="center">
+  <img src="assets/text2voice.png" alt="Project Screenshot" width="800"/>
+</p>
+
 
 This project demonstrates how to perform text-to-audio and audio-to-text conversions using Hugging Face transformers. It includes examples of generating audio from text, converting audio to text, and downloading audio for further processing.
 
