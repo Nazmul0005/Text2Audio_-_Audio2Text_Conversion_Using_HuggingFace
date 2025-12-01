@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.7+-blue)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Text2Audio_-_Audio2Text_Conversion_Using_HuggingFace
 
 
@@ -113,3 +117,7 @@ from transformers import pipeline
 -Hugging Face for providing powerful transformer-based models.
 
 -Google Colab for offering an easy-to-use platform for running Python code.
+
+
+
+
